@@ -27,6 +27,9 @@ Average price per month and product
 
 • Tableau Public for dashboards
 
+## Final Visualization
+https://public.tableau.com/views/Funzone/Dashboard1?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 ## How to Explore
 Download the cleaned dataset and Tableau workbook.
 Open the .twbx file in Tableau Public.
