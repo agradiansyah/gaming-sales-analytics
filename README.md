@@ -1,7 +1,9 @@
 # GameZone Insights: From Raw Data to Sales Dashboard
 
 ## Project Overview
-Cleaned and visualized 20K+ messy sales records for gaming products, building interactive dashboards in Tableau to reveal insights by product, region, and channel.
+FunZone is a gaming store selling via store, web and mobile app.
+Analyzed 20K+ messy sales records to track trends by product, region, and channel.
+Cleaned and processed data in Excel, then built interactive dashboards in Tableau Public.
 
 ## Key Features
 
