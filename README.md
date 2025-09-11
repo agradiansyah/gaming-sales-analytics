@@ -11,9 +11,7 @@ Tracked sales by product, region, and marketing channel.
 
 Key Features
 • Removed duplicates and nulls in Excel.
-
 • Corrected errors and standardized data.
-
 • Built Tableau dashboards for:
 Total sales over time
 Sales by product, region, and marketing channel
