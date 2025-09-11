@@ -1,15 +1,15 @@
 # gaming-sales-analytics
 Cleaned and visualized 20K+ messy sales records for gaming products, building interactive dashboards in Tableau to reveal insights by product, region, and channel.
 
-GameZone Insights: From Raw Data to Sales Dashboard
+## GameZone Insights: From Raw Data to Sales Dashboard
 
-## Project Overview
+# Project Overview
 Analyzed 20,000 gaming sales records.
 Data had duplicates, nulls, outliers, and inconsistencies.
 Used Excel and Tableau Public to clean, process, and visualize data.
 Tracked sales by product, region, and marketing channel.
 
-## Key Features
+# Key Features
 
 • Removed duplicates and nulls in Excel.
 
