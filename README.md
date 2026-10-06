@@ -21,7 +21,7 @@ This ensured accurate analysis and reliable insights.
 
 ## Final Visualization
 Sales View Page:
-<img width="1408" height="786" alt="Screenshot 2026-10-04 at 11 32 11" src="https://github.com/user-attachments/assets/89fd0b2e-95bc-45b4-b894-fa5b717e08f6" /><br>
+<img width="1407" height="795" alt="Screenshot 2026-10-04 at 12 02 14" src="https://github.com/user-attachments/assets/72ee9405-0f0c-440f-907b-3de94df43847" /><br>
 Performance View Page:
 <img width="1408" height="791" alt="Screenshot 2026-10-04 at 12 02 36" src="https://github.com/user-attachments/assets/8fd66343-197b-43f2-85cc-89eb283a41df" /><br>
 
